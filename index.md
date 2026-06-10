@@ -70,7 +70,7 @@
 - **I. Kapital, Infrastructure (θᵗ)**: Humans, machines, commodities, services, vendors → Raw state vector (sensors, RLS/JWT append-only NDJSON).
 - **II. Labor, Compute (L₀ + Σwᵢ·Lᵢ)**: FastAPI/Jacobian layer correlating resources to financial instruments (ABS, bonds, FX, derivatives, equity) via multivariable regression.
 - **III. Products, Tokens (f(σ²,λ,ε))**: Activation/decision space.
-- **IV. Services, Inference (γ|ε_FGT|²)**: Eigenmode stability — SlowAPI next-token prediction on journaled tomorrow, error vs. federated ground truth.
+- **IV. Services, Inference (`γ|ε_FGT|²`)**: Eigenmode stability — SlowAPI next-token prediction on journaled tomorrow, error vs. federated ground truth.
 - **V. Information, Supply & Demand (L(θᵗ⁺¹))**: Scalar belief/market/prior update.
 
 **Bigger picture**: Nonself (external hires), Input → Throughput → Output (service to shareholders/board), Self (Ubuntu ngumuntu ngabantu — enterprise embedded in jurisdiction).
