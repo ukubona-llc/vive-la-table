@@ -561,7 +561,7 @@ Since *Ubuntu ngumuntu ngabantu* dictates that the enterprise is embedded in a l
 
 The digital twin needs to run its next-token prediction engine to forecast tomorrow's ledger entries.
 
-* **The Loss Function:** $\gamma | \varepsilon_{FGT} |^2$
+* **The Loss Function:** $\gamma \| \varepsilon_{FGT} \|^2$
 * At midnight of every simulated day, the system evaluates:
 
 $$Y_{\text{predicted}} - Y_{\text{observed}} = \text{Error}$$
