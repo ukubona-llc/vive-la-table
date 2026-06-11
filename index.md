@@ -824,7 +824,7 @@ because it explains why every component exists:
 
 The entire stack collapses into:
 
-[
+$$
 \theta_t
 \rightarrow
 \hat{\theta}*{t+1}
@@ -832,7 +832,7 @@ The entire stack collapses into:
 \varepsilon*{FGT}
 \rightarrow
 \theta_{t+1}
-]
+$$
 
 which is essentially a cybernetic organism.
 
